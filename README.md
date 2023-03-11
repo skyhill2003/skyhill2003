@@ -6,5 +6,5 @@
 
 ### Connect with me:
 [<img align="left" alt="skyhill2003.bplaced.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://skyhill2003.bplaced.net)
-[<img align="left" alt="skyhill2003 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/skyhill2003)
+[<img align="left" alt="skyhill2003 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://img.shields.io/discord/521426253585186828)
 [<img align="left" alt="skyhill2003 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/skyhill2003)
